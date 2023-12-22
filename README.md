@@ -1,5 +1,5 @@
 # Http-Canary-For-Android-11Backup-file
-This is just a backup repo for me to install http Canary in Android 11 , i don't need to search the internet for this modded application
+This is just a backup repo for me to install http Canary in Android 11 , i don't need to search the internet for this  application
 Make sure your device is rooted before following this guide.
 
 
